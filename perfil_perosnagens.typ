@@ -18,3 +18,31 @@ agressivo
 - Pó do Sono
 - folha Navalha
 - chicote de vinha
+
+===
+
+== ???
+=== Charmeleon
+- Lança-Chamas
+- Garra de Ferro
+-Furia de dragão
+
+=== pikachu
+- trovão
+- mega-chute
+- investida trovão
+
+
+== brock
+=== Aerodactyl
+- asa de Ferro
+- ataque dos ceus
+- arremesso de pedras
+- mordida
+
+=== stelix
+- mordida
+- cauda de Ferro
+- arremesso de pedra
+- cavar
+
