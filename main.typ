@@ -7,3 +7,4 @@
 #include "capitulos/2chuva.typ"
 #include "capitulos/3primeira_batalha.typ"
 #include "capitulos/4breakout.typ"
+#include "capitulos/5floresta_medo.typ"
