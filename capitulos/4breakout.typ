@@ -1,6 +1,6 @@
 
 
-==*4. Breakout*
+== *4. Breakout*
 
 As luzes do Centro Pokémon piscavam, e então vieram os barulhos de raios — parecidos com os da floresta. Eu e Dilan nos deparamos com um *Dratini furioso*, brilhando em eletricidade. Um poderoso ataque de relâmpago. Assim que percebi que ele estava em posição de ataque, entendi que eu teria que lutar.
 
