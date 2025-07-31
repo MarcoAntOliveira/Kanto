@@ -44,7 +44,7 @@ Respiramos aliviados. Estávamos cercados por fios queimados, explosões e fuma�
 
 —*Nossa...* — não havia palavras para responder aquilo.
 
-—*Existem grupos piores do que a Equipe Rocket. Já ouviu falar?* — perguntou a Enfermeira Joy, enquanto eu e Dilan ouvíamos boquiabertos.
+—*Existem grupos piores do que  Equipes como a Equipe , Além de roubar pokemons, interferir no bioma local, Eles os forçam a lutar a ser itens de colecionador ou até coisa pior, Já ouviram falar algo a respeito?são praticas que tem se tornado cada vez mas visivel* — perguntou a Enfermeira Joy, enquanto eu e Dilan ouvíamos boquiabertos.
 
 —*Já ouvi falar por cima... Mas por que eles fazem isso?*
 

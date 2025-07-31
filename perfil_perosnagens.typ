@@ -18,6 +18,8 @@ agressivo
 - Pó do Sono
 - folha Navalha
 - chicote de vinha
+- semente sanguessuga
+- raio solar
 
 ===
 
@@ -45,4 +47,15 @@ agressivo
 - cauda de Ferro
 - arremesso de pedra
 - cavar
+
+=== swanpert
+- agua barrenta
+- soco Veloz
+- arremesso de pedras
+- jato de agua
+
+=== geodude
+- cavar
+- arremesso de rochas
+- rolo compressor
 

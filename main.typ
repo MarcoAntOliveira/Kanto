@@ -1,5 +1,5 @@
 #set document(
-  title: "Meu Livro",
+  title: "Kanto",
   author: "Marco Antonio"
 )
 
@@ -9,3 +9,4 @@
 #include "capitulos/4.breakout.typ"
 #include "capitulos/5.floresta_medo.typ"
 #include "capitulos/6.1gym.typ"
+#include "capitulos/7.pedra_lua.typ"
